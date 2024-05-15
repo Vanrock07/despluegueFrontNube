@@ -1,0 +1,26 @@
+
+.formulario {
+   background-color: rgb(23, 162, 184);
+   width: 400px;
+   margin: 0 auto;
+}
+.titulo {
+   text-align: center;
+   background-color: rgb(63, 78, 78);
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+}
+.mb-3{
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.btn-primary{
+margin-left: 150px;
+align-items: center;
+margin-bottom: 12px;
+}
+
+.tablehead {
+background-color: rgb(52, 58, 64);
+color: rgb(255, 255, 255);
+}

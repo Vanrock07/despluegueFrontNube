@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ContentHeader from '../componentes/ContentHeader.js';
-import Footer from '../componentes/Footer.js';
-import NavBar from '../componentes/NavBar.js';
-import SidebarContainer from '../componentes/SidebarContainer.js';
+import ContentHeader from '../componentes/webPage/ContentHeader.js';
+import Footer from '../componentes/webPage/Footer.js';
+import NavBar from '../componentes/webPage/NavBar.js';
+import SidebarContainer from '../componentes/webPage/SidebarContainer.js';
 
 const Home = () => {
     return (
