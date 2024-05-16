@@ -9,7 +9,8 @@ import SidebarContainer from '../../componentes/webPage/SidebarContainer.js';
 import './CompCliente.css';
 
 
-const URL = 'http://localhost:4000/api/proveedores/';
+//const URL = 'http://localhost:4000/api/proveedores/';
+const URL = "https://desplieguenube.onrender.com/api/proveedores/";
 
 const CompEditProveedor = () => {
 

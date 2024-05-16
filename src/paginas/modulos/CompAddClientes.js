@@ -8,7 +8,8 @@ import SidebarContainer from '../../componentes/webPage/SidebarContainer.js';
 import './CompCliente.css';
 
 
-const URL = "http://localhost:4000/api/clientes/";
+//const URL = "http://localhost:4000/api/clientes/";
+const URL = "https://desplieguenube.onrender.com/api/clientes/";
 
 const CompAddClientes = () => {
 
